@@ -10,4 +10,6 @@
 - Data Structure
 - Algorithm
 - Design Pattern
-- 
+- Linux (linux tree....etc)
+- Network (advanced)
+- clouding
