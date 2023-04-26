@@ -13,3 +13,4 @@
 - Linux (linux tree....etc)
 - Network (advanced)
 - clouding
+- <a href="https://www.youtube.com/@nesoacademy">link</a>
