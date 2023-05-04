@@ -1,3 +1,4 @@
+<div align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/></div>
 <h1 align="center">Gitflow Workflow</h1>
 <p>Gitflow is a legacy Git workflow that was originally a disruptive and novel strategy for managing Git branches. Gitflow has fallen in popularity in favor of trunk-based workflows, which are now considered best practices for modern continuous software development and DevOps practices.</p>
 <h2>🔸Develop and main branches</h2>
