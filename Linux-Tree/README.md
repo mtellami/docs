@@ -1,2 +1,0 @@
-<div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/></div>
-<h1 align="center">Linux Directory Structure</h1>
