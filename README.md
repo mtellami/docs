@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📃 Docs 📃
+# 🔸 Docs 🔸
 </div>
 
 ```console
