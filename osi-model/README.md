@@ -4,7 +4,8 @@
 </div>
 
 OSI stands for Open Systems Interconnection. The OSI model, created in 1984 by ISO, is a reference framework that explains the process of transmitting data between computers. It is divided into seven layers that work together to carry out specialised network functions, allowing for a more systematic approach to networking.
-<img src="src/osi-layers" width="100%" />
+
+<img src="src/osi-layers.png" width="100%" />
 
 ## 🔷 Physical Layer
 The lowest layer of the OSI Model is concerned with electrically or optically transmitting raw unstructured data bits across the network from the physical layer of the sending device to the physical layer of the receiving device. It can include specifications such as voltages, pin layout, cabling, and radio frequencies. At the physical layer, one might find “physical” resources such as network hubs, cabling, repeaters, network adapters or modems.
