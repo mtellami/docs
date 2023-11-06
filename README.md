@@ -19,3 +19,4 @@ ________
 - <a href="https://github.com/mtellami/docs/tree/master/linux-filesystems-hierarchy">linux filesystems hierarchy</a>
 - <a href="https://github.com/mtellami/docs/tree/master/gitflow">gitflow</a>
 - <a href="https://github.com/mtellami/docs/tree/master/data-structures">data structures</a>
+- <a href="https://github.com/mtellami/docs/tree/master/osi-model">OSI model</a>
