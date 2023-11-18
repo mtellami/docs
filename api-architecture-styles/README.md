@@ -2,7 +2,7 @@
 
 # 🪩 API architecture styles 🪩
 
-<img src="src/api.png" width="100%" />
+<img src="src/api.jpeg" width="100%" />
 </div>
 
 An application programming interface is a way for two or more computer programs to communicate with each other. It is a type of software interface, offering a service to other pieces of software.
