@@ -23,3 +23,4 @@ ________
 - <a href="https://github.com/mtellami/docs/tree/master/api-architecture-styles">API architecture styles</a>
 - <a href="https://github.com/mtellami/docs/tree/master/programming-principles">Programming Principles</a>
 - <a href="https://github.com/mtellami/docs/tree/master/containerization">Containerization</a>
+- <a href="https://github.com/mtellami/docs/tree/master/big-o-notation">big-o-notation</a>
